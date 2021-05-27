@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.container {
+    padding: 2rem;
+    width: 100%;
+    max-width: 75rem;
+    margin: 0 auto;
+}
+
+.col {
+    font-size: 0.925rem;
+    padding: 2em;
+    margin: 1rem;
+    color: red;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
